@@ -189,7 +189,7 @@ h3 { margin: 0 0 10px; font-size: 21px; }
 .section-heading { margin-bottom: 44px; }
 .section-heading h2 { max-width: 750px; }
 .section-heading .kicker, .story-section .kicker, .guidelines-section .kicker, .contact-section .kicker { color: var(--moss); }
-.disclosure-section .kicker { color: var(--ink); }
+.disclosure-section .kicker { color: var(--moss); }
 
 .fact-grid {
   display: grid;
