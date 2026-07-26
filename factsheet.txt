@@ -11,6 +11,7 @@ Genre: Roguelite spellcrafting deckbuilder
 Languages: English, German, French, Spanish
 Demo: Available now on Steam
 Store: https://store.steampowered.com/app/4945980/Grimoire_of_Blanks/
+Trailer: assets/trailers/grimoire-of-blanks-gameplay-trailer-2026.mp4
 Press contact: esterangames@gmail.com
 
 ONE-SENTENCE DESCRIPTION
@@ -28,6 +29,13 @@ KEY FEATURES
 - Play solo or in online co-op with up to four players.
 - Choose from Scribe, Binder, Heretic, and Starmage.
 - Shape each run through battles, events, shops, upgrades, elites, and bosses.
+
+PRESS ASSETS
+------------
+- Official 60-second gameplay trailer in 1080p60.
+- Current transparent game and studio logos.
+- Current red/black key art and Steam capsule artwork.
+- Eleven full-resolution gameplay screenshots.
 
 CREATOR COVERAGE GUIDELINES
 ---------------------------
