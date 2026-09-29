@@ -41,8 +41,7 @@ CREATOR COVERAGE GUIDELINES
 ---------------------------
 - The public demo may be recorded, streamed, reviewed, and shown without an embargo.
 - Creators may monetize coverage and use supplied press-kit assets in videos, streams, articles, and thumbnails.
-- Recipients of a full-game review key may show Acts 1 and 2.
-- Act 3 may not be recorded, streamed, or published by full-game review-key recipients.
+- Recipients of a full-game review key may record, stream, and publish footage from all acts.
 - Full-game Steam review keys will be available to suitable creators closer to launch.
 
 AI-ASSISTED CONTENT DISCLOSURE
