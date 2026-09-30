@@ -7,7 +7,7 @@ Folders
 -------
 assets/logos        Current transparent game and studio logos
 assets/key-art      Current blue key art, capsule art, and trailer poster
-assets/screenshots  Seven 1920x1080 Steam screenshots
+assets/screenshots  Seven 1920x1080 gameplay screenshots
 assets/trailers     Official 2026 gameplay trailer
 assets/clips        Four-player co-op MP4 and GIF
 assets/icons        Steam and social-platform icons
