@@ -34,7 +34,8 @@ PRESS ASSETS
 ------------
 - Official 70-second gameplay trailer in 1080p60.
 - Current transparent game and studio logos.
-- Current blue key art and Steam capsule artwork.
+- Current illustrated key art and Steam capsule artwork.
+- Text-free thumbnail bases in 1920x1080 and 2560x1440.
 - Seven full-resolution gameplay screenshots captured from the game.
 
 CREATOR COVERAGE GUIDELINES
